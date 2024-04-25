@@ -8,3 +8,8 @@ Space Complexity: O(n)
 Approach 2: Using Sorting algorithm
 Time Complexity: O(n)
 Space Complexity: O(1)
+
+
+Koko Eating Bananas: using binary search 
+time complexity:(nlogn)
+space complexity:o(1)
